@@ -1,0 +1,9 @@
+#positive or negative
+num=int(input("enter number:")) 
+if num>0:
+    print("given number is positive ")
+elif num<0:
+    print("given number is negative") 
+else:
+    print("niether positive nor negative")
+    
